@@ -26,4 +26,4 @@ I specialize in **Laravel**, **Vue.js/Nuxt**, **TailwindCSS**, **MySQL**, and **
 ---
 
 📬 **Open to part-time freelance opportunities.**  
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yourusername) or by request.
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/psamiotis) or by request.
