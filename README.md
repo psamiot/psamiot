@@ -21,7 +21,7 @@ I specialize in **Laravel**, **Vue.js/Nuxt**, **TailwindCSS**, **MySQL**, and **
 
 ## 🔧 Tech Stack
 
-`Laravel` · `Vue/Nuxt` · `Tailwind` · `Inertia.js` · `PostgreSQL` · `Stripe` · `SendGrid` · `Docker` · `DigitalOcean`
+`Laravel` · `Vue/Nuxt` · `Tailwind` · `Inertia.js` · `PostgreSQL` · `Stripe` · `SendGrid` · `Docker` · `Cloudflare`
 
 ---
 
